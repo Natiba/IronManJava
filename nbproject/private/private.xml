@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Interface/IArmadura.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Service/ArmaduraService.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/PartesArmadura/Casco.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/PartesArmadura/Guantes.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/PartesArmadura/Botas.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Interface/IVolar.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Interface/IGuantes.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/PartesArmadura/Sintetizador.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/ironmanintegrador/IronManIntegrador.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Entity/Armadura.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Interface/IBotas.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/Interface/ICasco.java</file>
+            <file>file:/Users/nataliaba/NetBeansProjects/IronManIntegrador/src/PartesArmadura/Consola.java</file>
+        </group>
+    </open-files>
+</project-private>
